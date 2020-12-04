@@ -15,5 +15,5 @@ Instruções para o GUI (04/12/2020):
 7. Fechar a janela que abriu
 8. Na tab "Propagate" clicar em "Perturbations"
 9. Clicar confirm na janela que abriu
-10. Na tap View selecionar os plots que se pretende visualizar (opcional)
+10. Na tab View selecionar os plots que se pretende visualizar (opcional)
 11. Na tab "Main system" alterar o "stop time" (opcional) e clicar "Run Simulation"
