@@ -1,10 +1,10 @@
 # Projeto_Aero
  
-Link Simulink (04/12/2020):
+Link Simulink (07/12/2020):
 
-https://we.tl/t-TlwyJLo3U7
+https://we.tl/t-Ma7Gf2OWOC
 
-Instruções para o GUI (04/12/2020):
+Instruções para o GUI (07/12/2020):
 
 1. Abrir menu.mlapp
 2. Na linha 120 mudar o path para o ficheiro onde está o simulink
