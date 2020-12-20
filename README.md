@@ -1,8 +1,8 @@
 # Projeto_Aero
  
-Link Simulink (20/12/2020_19:40h)
+Link Simulink (20/12/2020_19:55h)
 
-https://we.tl/t-teRXr4Tgk2
+https://we.tl/t-woIRmGnCGy
 
 Instruções para o GUI (19/12/2020_18h):
 
