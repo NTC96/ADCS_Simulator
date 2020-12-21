@@ -4,6 +4,8 @@ Link Simulink (21/12/2020_01:30h)
 
 https://we.tl/t-GsCwXtV9wf
 
+COM STEPS PARA EST_MODE (21/12/2020_15:17)   ->   https://we.tl/t-x09AzTGotl
+
 Instruções para o GUI (19/12/2020_18h):
 
 1. Abrir menu.mlapp
