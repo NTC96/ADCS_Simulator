@@ -4,8 +4,6 @@ Link Simulink (29/12/2020_14:44h)
 
 https://we.tl/t-MY0exGZMaY
 
-COM STEPS PARA EST_MODE (21/12/2020_15:17)   ->   https://we.tl/t-x09AzTGotl
-
 Instruções para o GUI (29/12/2020_18h): O GUI MAIS ATUAL ESTA NA PASTA GUI2!!!!!!!
 1. Fazer upload para o workspace do matlab do workspace_database
 2. Abrir menu.mlapp
