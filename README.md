@@ -1,8 +1,8 @@
 # Projeto_Aero
  
-Link Simulink (29/12/2020_14:44h)
+Link Simulink (02/02/2021_22:48h)
 
-https://we.tl/t-MY0exGZMaY
+https://we.tl/t-ho55tQu84L
 
 Instruções para o GUI (29/12/2020_18h): O GUI MAIS ATUAL ESTA NA PASTA GUI2!!!!!!!
 1. Fazer upload para o workspace do matlab do workspace_database
@@ -10,7 +10,7 @@ Instruções para o GUI (29/12/2020_18h): O GUI MAIS ATUAL ESTA NA PASTA GUI2!!!
 3. Na linha 166 mudar o path para o ficheiro onde está o simulink
 4. Na linha 501 confirmar que o nome dentro da função "sim" corresponde ao nome do simulink
 5. Correr menu.mlapp
-6. Na tab "Library" em sensores adicionar um "Coarse Sun Sensor", um "Fine Sun Sensor", 3x "Gyroscope" e 3x "Magnetometer"
+6. Na tab "Library" em sensores adicionar um "Coarse Sun Sensor", um "Fine Sun Sensor", um "Gyroscope" e um "Magnetometer"
 7. Na tab "Library" em atuadores adicionar um "Magnetorquer" e uma "Reaction Wheel"
 8. Para cada sensor/atuador clicar nele e clicar edit
 9. Fechar a janela que abriu
