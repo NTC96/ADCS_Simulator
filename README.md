@@ -1,8 +1,8 @@
 # Projeto_Aero
  
-Link Simulink (03/02/2021_15:23h)
+Link Simulink (03/02/2021_17:54h)
 
-https://we.tl/t-PcORPOhgd9
+https://we.tl/t-Mu1iQR8iiM
 
 Instruções para o GUI (29/12/2020_18h): O GUI MAIS ATUAL ESTA NA PASTA GUI2!!!!!!!
 1. Abrir o simulink Pitch_Sun_Track
