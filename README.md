@@ -1,8 +1,4 @@
 # Projeto_Aero
- 
-Link Simulink (03/02/2021_17:54h)
-
-https://we.tl/t-qrDB8M14m7
 
 Link Simulink (11/01/2021_19:00h)
 
