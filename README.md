@@ -4,6 +4,10 @@ Link Simulink (03/02/2021_17:54h)
 
 https://we.tl/t-qrDB8M14m7
 
+Link Simulink (11/01/2021_19:00h)
+
+https://we.tl/t-Mb1ytydyBt
+
 
 Instruções para o GUI (29/12/2020_18h): O GUI MAIS ATUAL ESTA NA PASTA GUI2!!!!!!!
 1. Abrir o simulink Pitch_Sun_Track
