@@ -5,7 +5,7 @@ Link Simulink (11/01/2021_19:00h)
 https://we.tl/t-Mb1ytydyBt
 
 
-Instruções para o GUI (29/12/2020_18h): O GUI MAIS ATUAL ESTA NA PASTA GUI2!!!!!!!
+Instruções para o GUI (29/12/2020_18h):
 1. Abrir o simulink Pitch_Sun_Track
 2. Abrir menu.mlapp
 3. Na linha 185 mudar o path para o ficheiro onde está o simulink
