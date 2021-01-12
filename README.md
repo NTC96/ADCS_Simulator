@@ -2,7 +2,7 @@
 
 Link Simulink (12/01/2021_03:09h)
 
-https://we.tl/t-eZIMNnCISY
+https://drive.google.com/file/d/18GabOvjCMsWR-itjsHNrallmJClqZ_ba/view?usp=sharing
 
 Instruções para o GUI (12/01/2021_01:30h):
 
